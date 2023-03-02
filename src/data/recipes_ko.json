@@ -1,0 +1,36 @@
+[
+  {
+    "name": "구운 연어",
+    "ingredients": [
+      { "name": "연어", "amount": 1, "measurement": "파운드(약, 454g)" },
+      { "name": "잣", "amount": 1, "measurement": "컵" },
+      { "name": "버터 양상추", "amount": 2, "measurement": "컵" },
+      { "name": "노란 스쿼시", "amount": 1, "measurement": "개(중형크기)" },
+      { "name": "올리브 오일", "amount": 0.5, "measurement": "컵" },
+      { "name": "마늘", "amount": 3, "measurement": "쪽" }
+    ],
+    "steps": [
+      "오븐을 350도로 예열합니다.",
+      "유리 베이킹 접시에 올리브 오일을 펴 바릅니다.",
+      "노란 단호박을 넣고 30분간 오븐에 넣습니다.",
+      "연어, 마늘, 잣을 접시에 담습니다.",
+      "15분간 굽습니다.",
+      "오븐에서 꺼냅니다. 양상추를 곁들여 내놓습니다."
+    ]
+  },
+  {
+    "name": "생선 타코",
+    "ingredients": [
+      { "name": "흰살 생선", "amount": 1, "measurement": "파운드(약, 454g)" },
+      { "name": "치즈", "amount": 1, "measurement": "컵" },
+      { "name": "빙산 양상추", "amount": 2, "measurement": "컵" },
+      { "name": "토마토", "amount": 2, "measurement": "개(대형크기)" },
+      { "name": "또띠아", "amount": 3, "measurement": "개" }
+    ],
+    "steps": [
+      "그릴에서 생선을 완전히 익을 때까지 굽습니다.",
+      "토르티야 3개 위에 생선을 올립니다.",
+      "양상추, 토마토, 치즈를 얹습니다."
+    ]
+  }
+]
